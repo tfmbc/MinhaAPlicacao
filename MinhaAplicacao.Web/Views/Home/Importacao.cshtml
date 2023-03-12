@@ -1,0 +1,52 @@
+﻿@model MinhaAplicacao.Web.Models.ImportacaoVIewModel
+@{
+    ViewData["Title"] = "Importação";
+}
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" />
+<div class="text-center">
+    <h1 class="display-4">Importação</h1>
+</div>
+@using (Html.BeginForm("Importacao", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.files, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.files, "", new { @type = "file", @multiple = "multiple", @accept="*.csv", @onchange="FileUploadCheck(event)" })
+                @Html.ValidationMessageFor(model => model.files, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Upload" class="btn btn-primary" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10 text-success">
+                @ViewBag.UploadStatus
+            </div>
+        </div>
+
+    </div>
+}
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        //bootbox.alert("Hello world!");
+    });
+    function FileUploadCheck(event){
+        var listArquivos = (objEvent.srcElement != null) ? objEvent.srcElement : objEvent.target;
+        debugger;
+        for (var i = 0; i < listArquivos.files.length; ++i) {
+            if (ext == 'mp3' || ext == 'mp4' || ext == 'mov' || ext == 'avi' || ext == 'exe' || ext == 'bat' || ext == 'msi' || ext == 'wav' || ext == 'divx' || ext == 'aif' || ext == 'aiff' || ext == 'aifc' || ext == 'cda' || ext == 'dll' || ext == 'm3u' || ext == 'mov' || ext == 'swf' || ext == 'torrent' || ext == 'vue' || ext == 'wmy') {
+                RegisterForm.OnError('Arquivo inválido :' + listArquivos.files[i].name);
+            } else {
+            
+            }
+        }
+    }
+</script>

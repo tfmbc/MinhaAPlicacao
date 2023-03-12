@@ -1,0 +1,12 @@
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\bin\Debug\net7.0\MinhaAplicacao.Dominio.deps.json
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\bin\Debug\net7.0\MinhaAplicacao.Dominio.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\bin\Debug\net7.0\MinhaAplicacao.Dominio.pdb
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\MinhaAplicacao.Dominio.csproj.AssemblyReference.cache
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\MinhaAplicacao.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\MinhaAplicacao.Dominio.AssemblyInfoInputs.cache
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\MinhaAplicacao.Dominio.AssemblyInfo.cs
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\MinhaAplicacao.Dominio.csproj.CoreCompileInputs.cache
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\MinhaAplicacao.Dominio.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\refint\MinhaAplicacao.Dominio.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\MinhaAplicacao.Dominio.pdb
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Dominio\obj\Debug\net7.0\ref\MinhaAplicacao.Dominio.dll

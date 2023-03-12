@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uJ4DYVy8Cv1hNubowMa4bqxuKuZ4w7uh4v7oCgzM3QPgEyJaJ8DM50XVIXve24ifrUDM8DaFa11YXRAWcJJl1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Auvo Tecnologia\\MinhaAplicacao\\MinhaAplicacao.Negocio\\MinhaAplicacao.Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfmbc\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\tfmbc\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\tfmbc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\tfmbc\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\tfmbc\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

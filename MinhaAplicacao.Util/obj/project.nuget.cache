@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/y68NjB/m1yJhv+0WFjVlhRZN/QOiAQ7NVNETzr47CedFAgVUrf1FVVwZfTVIJqvpFs2K6moxUkGS1dXy1ZFpQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Auvo Tecnologia\\MinhaAplicacao\\MinhaAplicacao.Util\\MinhaAplicacao.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfmbc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\tfmbc\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\tfmbc\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

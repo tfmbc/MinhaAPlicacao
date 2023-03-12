@@ -1,0 +1,17 @@
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\bin\Debug\net7.0\MinhaAplicacao.Negocio.deps.json
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\bin\Debug\net7.0\MinhaAplicacao.Negocio.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\bin\Debug\net7.0\MinhaAplicacao.Negocio.pdb
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\bin\Debug\net7.0\MinhaAplicacao.Dominio.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\bin\Debug\net7.0\MinhaAplicacao.Util.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\bin\Debug\net7.0\MinhaAplicacao.Dominio.pdb
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\bin\Debug\net7.0\MinhaAplicacao.Util.pdb
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.csproj.AssemblyReference.cache
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.AssemblyInfoInputs.cache
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.AssemblyInfo.cs
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.csproj.CoreCompileInputs.cache
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.csproj.CopyComplete
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\refint\MinhaAplicacao.Negocio.dll
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\MinhaAplicacao.Negocio.pdb
+D:\Workspace\Auvo Tecnologia\MinhaAplicacao\MinhaAplicacao.Negocio\obj\Debug\net7.0\ref\MinhaAplicacao.Negocio.dll
