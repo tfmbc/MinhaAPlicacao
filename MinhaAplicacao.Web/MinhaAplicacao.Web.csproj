@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Arquivos de Exemplo\" />
     <Folder Include="wwwroot\lib\bootbox\" />
   </ItemGroup>
 
